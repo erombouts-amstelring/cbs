@@ -12,3 +12,7 @@ wheels/
 
 # dbt
 dbt.log
+
+# VS Code
+.vscode/
+*.code-workspace
